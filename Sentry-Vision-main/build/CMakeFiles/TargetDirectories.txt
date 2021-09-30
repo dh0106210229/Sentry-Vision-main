@@ -1,0 +1,3 @@
+/home/tup/Desktop/Sentry-Vision/build/CMakeFiles/rebuild_cache.dir
+/home/tup/Desktop/Sentry-Vision/build/CMakeFiles/Sentry-Vision.dir
+/home/tup/Desktop/Sentry-Vision/build/CMakeFiles/edit_cache.dir
